@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Demo View Model</string>
+    <string name="name">Name : %s</string>
+    <string name="email">Email : %s</string>
+    <string name="view_model">View Model</string>
+    <string name="normal">Normal</string>
+    <string name="set_value">Set Value</string>
+</resources>
